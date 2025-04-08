@@ -37,7 +37,7 @@ const Contact = () => {
         <h3>Send as message <img src={msg_icon} alt="" /></h3>
         <p>Feel free to reach out through contact form or find our contact information below. your feedback, questions, and suggestions are important to us we strive to provide exceptional service to our university community.</p>
       <ul>
-        <li><img src={mail_icon} alt="" />Contact@GreatStack.dev</li>
+        <li><img src={mail_icon} alt="" />Contact.Edusity@gmail.com</li>
         <li><img src={phone_icon} alt="" />+962788853799</li>
         <li><img src={location_icon} alt="" />Amman,Jordan</li>
       </ul>

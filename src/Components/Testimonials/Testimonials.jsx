@@ -35,8 +35,8 @@ slider.current.style.transform = `translateX(${tx}%)`;
                     <div className='user-info'>
                     <img src={user_1} alt="" />
                     <div>
-                        <h3>William JacKson</h3>
-                        <span>EdusIty, USA</span>
+                        <h3>Anna JacKson</h3>
+                        <span>EdusIty, Jordan</span>
                     </div>
                     </div>
                     <p>Choosing to pursue my degree at Edusity was one of the best decisions I've ever made. The supportive community,state-of-the-art faclities,and commitment to academic excellnce have truly exceeded my expectations. </p>
@@ -48,11 +48,11 @@ slider.current.style.transform = `translateX(${tx}%)`;
                     <div className='user-info'>
                     <img src={user_2} alt="" />
                     <div>
-                        <h3>William JacKson</h3>
-                        <span>EdusIty, USA</span>
+                        <h3>Abd-alhadi</h3>
+                        <span>EdusIty, Jordan</span>
                     </div>
                     </div>
-                    <p>Choosing to pursue my degree at Edusity was one of the best decisions I've ever made. The supportive community,state-of-the-art faclities,and commitment to academic excellnce have truly exceeded my expectations. </p>
+                    <p>Im really happy I chose to study at Edusity. Everything  from the people to the learning environment helped me grow and move forward." </p>
                 </div>
                 
             </li>
@@ -61,11 +61,13 @@ slider.current.style.transform = `translateX(${tx}%)`;
                     <div className='user-info'>
                     <img src={user_3} alt="" />
                     <div>
-                        <h3>William JacKson</h3>
-                        <span>EdusIty, USA</span>
+                        <h3>lisa William</h3>
+                        <span>EdusIty, Jordan</span>
                     </div>
                     </div>
-                    <p>Choosing to pursue my degree at Edusity was one of the best decisions I've ever made. The supportive community,state-of-the-art faclities,and commitment to academic excellnce have truly exceeded my expectations. </p>
+                    <p>Honestly, Edusity was more than I expected! The amazing support, great facilities, and real focus on education made my experience truly special.
+
+</p>
                 </div>
                 
             </li>
@@ -74,11 +76,13 @@ slider.current.style.transform = `translateX(${tx}%)`;
                     <div className='user-info'>
                     <img src={user_4} alt="" />
                     <div>
-                        <h3>William JacKson</h3>
-                        <span>EdusIty, USA</span>
+                        <h3>Mousa odeh</h3>
+                        <span>EdusIty, Jordan</span>
                     </div>
                     </div>
-                    <p>Choosing to pursue my degree at Edusity was one of the best decisions I've ever made. The supportive community,state-of-the-art faclities,and commitment to academic excellnce have truly exceeded my expectations. </p>
+                    <p>Joining Edusity was a truly wise decision. I found a supportive community, advanced facilities, and a strong commitment to academic excellence that exceeded all my expectations. </p>
+
+
                 </div>
                 
             </li>
